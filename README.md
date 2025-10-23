@@ -46,25 +46,6 @@ Desarrollador Full Stack con conocimientos en JavaScript, React, Python y SQL. S
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosanpedro90&theme=dark&hide_border=true" alt="Racha de commits"/>
 </p>
-
-📅 Gráfico de Contribuciones
-<p align="center">
-  <img src="https://ghchart.rshah.org/sergiosanpedro90" alt="Gráfico de contribuciones"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiosanpedro90&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosanpedro90&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosanpedro90&theme=dark&hide_border=true" alt="Racha de commits"/>
-</p>
-
-## 📈 Gráfico de Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergiosanpedro90&theme=dark&hide_border=true" alt="Gráfico de actividad"/>
-</p>
-
 ---
 
 <p align="center">
