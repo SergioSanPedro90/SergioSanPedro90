@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Develop</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergiosanpedro90&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGU5vdIunbk1w/profile-displaybackgroundimage-shrink_350_1400/B4DZoLKPXaGsAY-/0/1761123825530?e=1762992000&v=beta&t=ADB1pnemU16Vkj21b4IK1s_6amVcm5lGs2UTpFJ0HSU" />
 </p>
 
 <p align="center">
