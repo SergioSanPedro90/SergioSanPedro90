@@ -46,10 +46,9 @@ Desarrollador Full Stack con conocimientos en JavaScript, React, Python y SQL. S
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiosanpedro90&theme=dark&hide_border=true" alt="Racha de commits"/>
 </p>
----
 
 <p align="center">
-  <i>✨ "El código es poesía" ✨</i>
+  <i>✨ "El código es mi pasión" ✨</i>
 </p>
 
 <p align="center">
