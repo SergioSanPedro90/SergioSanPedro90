@@ -1,7 +1,5 @@
 ![Header](file:///C:/Users/Propietario/Downloads/linkedin_banner_sergio.html)
 
-<h1 align="center">👋 Hola, soy Sergio San Pedro Alvarez</h1>
-<h3 align="center">Full Stack Develop</h3>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGU5vdIunbk1w/profile-displaybackgroundimage-shrink_350_1400/B4DZoLKPXaGsAY-/0/1761123825530?e=1762992000&v=beta&t=ADB1pnemU16Vkj21b4IK1s_6amVcm5lGs2UTpFJ0HSU" />
